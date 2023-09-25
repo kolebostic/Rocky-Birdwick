@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1036526004206",
+    "project_id": "rocky-birdwick-database",
+    "storage_bucket": "rocky-birdwick-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036526004206:android:c8c5debb0d94cb10da50ff",
+        "android_client_info": {
+          "package_name": "com.example.rocky_birdwick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036526004206-p53tghu8h9i3n1io2cnvgvlc0pof9b2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXy97yeUiGdSGL84XR9iFu7f5BSpQq4bY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036526004206-p53tghu8h9i3n1io2cnvgvlc0pof9b2s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1036526004206-i8v0se89qp827loqu9679n3sm5u512if.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rockyBirdwick"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
